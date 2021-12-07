@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gmotardz
-- 👀 I’m interested in automating processes and tasks using powershell.
-- 🌱 I’m currently learning powershell scripting.
+- 👀 I’m interested in learning more about automating processes and tasks using powershell.
+- 🌱 I’m currently learning powershell and the different approaches one can take when working with it.
 - 📫 <a href="http://the.url.here">LinkedIn Profile.</a>
 
 <!---
