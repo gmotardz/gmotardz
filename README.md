@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gmotardz
 - 👀 I’m interested in learning more about automating processes and tasks using powershell.
 - 🌱 I’m currently learning powershell and the different approaches one can take when working with it.
-- 📫 <a href="http://the.url.here">LinkedIn Profile.</a>
+- 📫 <a href="https://www.linkedin.com/in/motagilberto/">LinkedIn Profile.</a>
 
 <!---
 gmotardz/gmotardz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
